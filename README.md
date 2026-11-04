@@ -1,12 +1,5 @@
-👋 Hello, I'm 1cey
-👨‍💻 Full-time Sigmaware Developer for CS2
-🌟 Passionate about computer science and education
+# Hello, I'm 1cey!
 
-🔭 Currently enhancing Sigmaware with innovative features
-🚀 Committed to making CS2 learning more engaging
-📚 CS enthusiast, always learning and sharing knowledge
-
-🌐 Connect with me:
-📧 Discord: x1cey
-
-![Visitor Count](https://glitch.me)
+<p align="left">
+  <img src="https://getloli.com" alt="Profile Views">
+</p>
