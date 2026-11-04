@@ -8,3 +8,5 @@
 
 🌐 Connect with me:
 📧 Discord: x1cey
+
+![Visitor Count](https://glitch.me)
